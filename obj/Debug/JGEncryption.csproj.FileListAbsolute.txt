@@ -1,0 +1,6 @@
+C:\Users\Utilisateur\Desktop\GitHub\JGEncryption\JGEncryption\bin\Debug\JGEncryption.dll
+C:\Users\Utilisateur\Desktop\GitHub\JGEncryption\JGEncryption\bin\Debug\JGEncryption.pdb
+C:\Users\Utilisateur\Desktop\GitHub\JGEncryption\JGEncryption\obj\Debug\JGEncryption.dll
+C:\Users\Utilisateur\Desktop\GitHub\JGEncryption\JGEncryption\obj\Debug\JGEncryption.pdb
+C:\Users\Utilisateur\Desktop\GitHub\JGEncryption\JGEncryption\obj\Debug\JGEncryption.csprojResolveAssemblyReference.cache
+C:\Users\Utilisateur\Desktop\GitHub\JGEncryption\JGEncryption\bin\Debug\BouncyCastle.Crypto.dll
